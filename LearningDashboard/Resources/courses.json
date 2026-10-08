@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 50,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "isCompleted": true
+      },
+      {
+        "id": 2,
+        "title": "Variables & Data Types",
+        "isCompleted": true
+      },
+      {
+        "id": 3,
+        "title": "Functions",
+        "isCompleted": false
+      },
+      {
+        "id": 4,
+        "title": "OOP",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 25,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to AI",
+        "isCompleted": true
+      },
+      {
+        "id": 2,
+        "title": "Large Language Models",
+        "isCompleted": false
+      },
+      {
+        "id": 3,
+        "title": "Prompt Engineering",
+        "isCompleted": false
+      },
+      {
+        "id": 4,
+        "title": "RAG",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "HTML & CSS",
+        "isCompleted": true
+      },
+      {
+        "id": 2,
+        "title": "JavaScript",
+        "isCompleted": false
+      },
+      {
+        "id": 3,
+        "title": "React",
+        "isCompleted": false
+      },
+      {
+        "id": 4,
+        "title": "Backend APIs",
+        "isCompleted": false
+      }
+    ]
+  }
+]
